@@ -118,8 +118,8 @@ The main test file (`translator.spec.js`) loops through these cases, enters the 
 
 ## Author
 
-**Student Name:** [CHAMODA M S]  
-**Registration Number:** [IT23832480]  
+**Student Name:** CHAMODA M S  
+**Registration Number:** IT23832480 
 **Module:** IT3040 - ITPM  
-**Institution:** [SLIIT]
+**Institution:** SLIIT
 

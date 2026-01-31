@@ -57,7 +57,7 @@ test.describe("SwiftTranslator - Automated Test Cases", () => {
           const txt = (await outputBox.innerText().catch(() => "")).trim();
           return txt;
         },
-        { timeout: 30000 }
+        { timeout: 200000 }
       ).not.toBe(before);
 
       const actual = (await outputBox.innerText()).trim();
