@@ -325,8 +325,8 @@ module.exports = [
     name: "Long paragraph",
     type: "NEG",
     length: "L",
-    input: "mama ada niwaduwata gedhara awaa. mama enakota apee ammaa kaeema hadhala thibunaa. api heta udheema maatharata trip ekak yanna hithan innee. api beach gihin naanna thamayi hithaagena innee. gihin aevillaa mama ayee boodimata enawaa. ",
-    expected: "මම අඩ නිවඩුwඅට ගෙදර අවා. මම එනකොට අපේ අම්මා කෑම හදල තිබුනා. අපි හෙට උදේම මාතරට trip එකක් යන්න හිතන් ඉන්නේ. අපි beach ගිහින් නාන්න තමයි හිතාගෙන ඉන්නේ. ගිහින් ඇවිල්ලා මම අයේ බෝඩිමට එනවා. ",
+    input: "mama adha niwaduwata gedhara awaa. mama enakota apee ammaa kaeema hadhala thibunaa. api heta udheema maatharata trip ekak yanna hithan innee. api beach gihin naanna thamayi hithaagena innee. gihin aevillaa mama ayee boodimata enawaa. ",
+    expected: "මම අද නිවඩුwඅට ගෙදර අවා. මම එනකොට අපේ අම්මා කෑම හදල තිබුනා. අපි හෙට උදේම මාතරට trip එකක් යන්න හිතන් ඉන්නේ. අපි beach ගිහින් නාන්න තමයි හිතාගෙන ඉන්නේ. ගිහින් ඇවිල්ලා මම අයේ බෝඩිමට එනවා. ",
     covered: "Long paragraph → Complex sentence → L → Robustness validation",
   },
 
